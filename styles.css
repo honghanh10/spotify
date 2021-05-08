@@ -192,3 +192,27 @@ h2 {
 .f-item a {
     font-size: 1rem;
 }
+.ro.d-flex a:hover{
+    color: #1de760;
+}
+.ro.d-flex ul li a{
+    color: gray;
+}
+.ro.d-flex{
+    margin: 50px;
+    font-size: 11px;
+}
+.h{
+    padding: 10px;
+    margin-left: 20px;
+}
+.svelte{
+    margin-left: 300px;
+    font-size: 12px;
+}
+.svelte a:hover{
+    color: #1de760;
+}
+.svelte li a{
+    color: gray;
+}
